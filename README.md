@@ -3,7 +3,14 @@ A variety of very small programming projects
 
 Projects:
 
-## Project 1: Simple website generator in racket
+## Simple website generator in Racket
 
-## Project 2: Extend a scheme or racket interpreter
+Code in [xweb](xweb) directory. Translates x-expressions into web pages. Need
+to play with proper templating next
+
+## Detrend stock market data
+
+First by hand, then using ML.
+
+## Extend a scheme or racket interpreter
 
